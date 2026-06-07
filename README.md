@@ -122,10 +122,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&title_color=e48a7c&icon_color=f3b8a6&text_color=555555&bg_color=fdeee9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&title_color=e48a7c&text_color=555555&bg_color=fdeee9" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e48a7c,50:f3b8a6,100:fdeee9&height=120&section=footer&text=Thanks%20for%20visiting%20🌿&fontColor=ffffff&fontSize=18&fontAlignY=65" />
