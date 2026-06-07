@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdeee9,50:f3b8a6,100:e48a7c&height=200&section=header&text=Diffuser%20Developer&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=프로젝트는%20끝나도%20향기는%20남는다&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e3f2fd,50:90caf9,100:42a5f5&height=200&section=header&text=Diffuser%20Developer&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=프로젝트는%20끝나도%20향기는%20남는다&descAlignY=60&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> ### 🌸 향기로 기억되는 디퓨저 같은 개발자 **강희정**입니다
+> ### 🌊 향기로 기억되는 디퓨저 같은 개발자 **강희정**입니다
 > 기술로 문제를 해결하고 · 에너지로 팀을 움직이며<br/>
 > 함께한 프로젝트에 오래 남을 긍정적인 흔적을 만드는 개발자
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌿_diffuse-positive_energy-e48a7c?style=flat-square&labelColor=f3b8a6">
-  <img src="https://img.shields.io/badge/🌿_full--stack-AI_·_DevOps-f3b8a6?style=flat-square&labelColor=e48a7c">
+  <img src="https://img.shields.io/badge/🌿_diffuse-positive_energy-42a5f5?style=flat-square&labelColor=90caf9">
+  <img src="https://img.shields.io/badge/🌿_full--stack-AI_·_DevOps-90caf9?style=flat-square&labelColor=42a5f5">
 </div>
 
 <br/>
@@ -123,10 +123,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&title_color=e48a7c&icon_color=f3b8a6&text_color=555555&bg_color=fdeee9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&title_color=e48a7c&text_color=555555&bg_color=fdeee9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&title_color=42a5f5&icon_color=90caf9&text_color=555555&bg_color=e3f2fd" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&title_color=42a5f5&text_color=555555&bg_color=e3f2fd" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e48a7c,50:f3b8a6,100:fdeee9&height=120&section=footer&text=Thanks%20for%20visiting%20🌿&fontColor=ffffff&fontSize=18&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:42a5f5,50:90caf9,100:e3f2fd&height=120&section=footer&text=Thanks%20for%20visiting%20🌊&fontColor=ffffff&fontSize=18&fontAlignY=65" />
 </div>
